@@ -1,0 +1,25 @@
+~ Collection is a framework
+
+~ Compare to arraylist have
+   -> easy insertion and deletion , dynamic memory allocation (or) dynamic resizing
+   -> In built methods
+   -> stores wrapper class + Generics (String Data types)
+
+~ ordered Data
+~ index based accessing
+~ can store duplicates
+
+~ Methods:-
+
+  -> add()
+  -> get()
+  -> remove()  // remove particular element
+  -> removeAll(10)  // remove all particular number in the arraylist
+  -> set(index,number)  // particular index to set element
+  -> contains() // to check number is present or not
+  -> clear() // to clear all the element in the list
+
+
+~ Linked list
+  Collections os nodes using connected by refernce
+  
